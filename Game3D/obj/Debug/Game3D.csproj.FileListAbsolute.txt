@@ -1,0 +1,6 @@
+C:\Users\pub2f\RiderProjects\Game3D\Game3D\bin\Debug\Game3D.exe
+C:\Users\pub2f\RiderProjects\Game3D\Game3D\bin\Debug\Game3D.pdb
+C:\Users\pub2f\RiderProjects\Game3D\Game3D\obj\Debug\Game3D.csproj.AssemblyReference.cache
+C:\Users\pub2f\RiderProjects\Game3D\Game3D\obj\Debug\Game3D.csproj.CoreCompileInputs.cache
+C:\Users\pub2f\RiderProjects\Game3D\Game3D\obj\Debug\Game3D.exe
+C:\Users\pub2f\RiderProjects\Game3D\Game3D\obj\Debug\Game3D.pdb
